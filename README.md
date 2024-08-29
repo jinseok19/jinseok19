@@ -27,6 +27,8 @@ KIM JIN SEOK 👋
 
 
 [![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur) ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=&nbsp;&nbsp;Hello+There!👋;&nbsp;&nbsp;Welcome+To+My+Github✨&height=100&size=32&color=1cff54&font-weight=bold)
+
+[![AnyaYay](https://cdn3.emoji.gg/emojis/5903-anyayay.gif)](https://emoji.gg/emoji/5903-anyayay)
 <!--
 **jinseok19/jinseok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

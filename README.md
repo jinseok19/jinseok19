@@ -24,6 +24,9 @@ KIM JIN SEOK 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinseoggim01@gmail.com)](mailto:jinseoggim01@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlawlstjr0222@naver.com)](mailto:rlawlstjr0222@naver.com)
 
+
+
+[![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur) ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=&nbsp;&nbsp;Hello+There!👋;&nbsp;&nbsp;Welcome+To+My+Github✨&height=100&size=32&color=1cff54&font-weight=bold)
 <!--
 **jinseok19/jinseok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&bg_color=30,3B82F6,2563EB,1D4ED8&title_color=E0F2FE&text_color=BFDBFE&height=230&section=header&text=KimJinSeok&fontAlign=68&fontAlignY=36&desc=BackEnd&descAlign=88.5&descAlignY=50&animation=twinkling" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&bg_color=30,3B82F6,2563EB,1D4ED8&title_color=E0F2FE&text_color=BFDBFE&height=230&section=header&text=KimJinSeok&fontAlign=68&fontAlignY=36&desc=AI & DATA &descAlign=88.5&descAlignY=50&animation=twinkling" alt="header">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KJaeKwan&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinseok19&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec" alt="GitHub Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/KJaeKwan">
+  <a href="https://github.com/jinseok19">
       <img src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="KJaeKwan's github stats" />
   </a>
 </div>

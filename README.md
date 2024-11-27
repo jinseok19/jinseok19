@@ -1,48 +1,80 @@
-KIM JIN SEOK 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFE8&height=300&section=header&text=KimJinSeok&fontColor=AACB73&fontSize=90)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseok19%2Fhit-counter&count_bg=%23FFD700&title_bg=%23283ABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&bg_color=30,3B82F6,2563EB,1D4ED8&title_color=E0F2FE&text_color=BFDBFE&height=230&section=header&text=KimJinSeok&fontAlign=68&fontAlignY=36&desc=BackEnd&descAlign=88.5&descAlignY=50&animation=twinkling" alt="header">
+</div>
 
-[![Jinseok's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jinseok19)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jinseok19)](https://github.com/jinseok19/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlstjr0222)](https://solved.ac/rlawlstjr0222/)
-# 💪Skills
-### Platforms & Languages
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KJaeKwan&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec" alt="GitHub Activity Graph" />
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+<br>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<div align="center">
+  <a href="https://github.com/KJaeKwan">
+      <img src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="KJaeKwan's github stats" />
+  </a>
+</div>
 
- 
-# :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinseoggim01@gmail.com)](mailto:jinseoggim01@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlawlstjr0222@naver.com)](mailto:rlawlstjr0222@naver.com)
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-[![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur) ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=&nbsp;&nbsp;Hello+There!👋;&nbsp;&nbsp;Welcome+To+My+Github✨&height=100&size=32&color=1cff54&font-weight=bold)
+<br>
 
-[![AnyaYay](https://cdn3.emoji.gg/emojis/5903-anyayay.gif)](https://emoji.gg/emoji/5903-anyayay)
-<!--
-**jinseok19/jinseok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />&nbsp
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
 
-# test
--->
-#test
+<br>
+
+<div align="center">
+  	<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:jaegwan101@gmail.com">
+    <img src="https://img.shields.io/badge/jaegwan101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://www.instagram.com/01__jk__01/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://solved.ac/shash042319/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shash042319" alt="Solved.ac Profile">
+  </a>
+</p>

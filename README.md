@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/jinseok19">
-      <img src="https://github-readme-stats.vercel.app/api?username=KJaeKwan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="KJaeKwan's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jinseok&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="KJaeKwan's github stats" />
   </a>
 </div>
 

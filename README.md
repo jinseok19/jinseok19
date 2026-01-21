@@ -5,10 +5,12 @@
 
 # 👋 김진석 | JinSeok Kim | 金鎭奭
 <!-- (선택) 한 줄 소개 뱃지 -->
-<img src="https://img.shields.io/badge/Interest-PM%20%26%20Planning-0052CC?style=flat" />
-<img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLM-7B61FF?style=flat" />
-<img src="https://img.shields.io/badge/Work-Service%20Automation%20%26%20Data%20Analysis-3776AB?style=flat" />
-
+<img src="https://img.shields.io/badge/Role-Lead%20PM%20%26%20Strategy-0052CC?style=flat&logo=target" />
+<img src="https://img.shields.io/badge/Leadership-Club%20President%20%26%20ROTC-FF4B4B?style=flat&logo=google-cloud" />
+<img src="https://img.shields.io/badge/Tech-Human%20AI%20%26%20Computer%20Vision-7B61FF?style=flat&logo=pytorch" />
+<img src="https://img.shields.io/badge/Focus-Kaggle%20%26%20Data%20Analysis-F2994A?style=flat&logo=kaggle" />
+<img src="https://img.shields.io/badge/Work-Service%20Automation%20%26%20Cloud-3776AB?style=flat&logo=wordpress" />
+<img src="https://img.shields.io/badge/Specialty-ICT%20Officer%20Candidate-008000?style=flat&logo=shield" />
 
 <br/><br/>
 <div align="center">

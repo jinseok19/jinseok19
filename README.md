@@ -28,6 +28,27 @@
 <details open>
 <summary><h2>📊 GitHub 활동</h2></summary>
 
+<div align="center">
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/jinseok19">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jinseok19&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,0052CC,7B61FF&title_color=fff&text_color=fff&icon_color=FFD700" alt="jinseok19's GitHub Stats" />
+</a>
+<a href="https://github.com/jinseok19">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok19&layout=compact&hide_border=true&bg_color=30,7B61FF,0052CC&title_color=fff&text_color=fff" alt="Top Languages" />
+</a>
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jinseok19&theme=highcontrast&hide_border=true&background=30%2C0052CC%2C7B61FF&ring=FFD700&fire=FF9900&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+
+### 🏅 백준 티어
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinseok19)](https://solved.ac/jinseok19/)
+
+### 📊 활동 요약
+
 | 항목 | 내용 |
 |:---:|:---:|
 | **총 레포지토리** | 27개 |
@@ -35,6 +56,8 @@
 | **Following** | 33명 |
 | **총 Stars** | 29개 |
 | **활동 기간** | 2023.01 ~ 현재 |
+
+</div>
 
 </details>
 

@@ -44,7 +44,7 @@
 
 
 ### 🏅 백준 티어
-[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=rlawlstjr0222&theme=warm)](https://solved.ac/rlawlstjr0222)
+[![jinseok's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlawlstjr0222)](https://solved.ac/profile/rlawlstjr0222)
 ### 📊 활동 요약
 
 | 항목 | 내용 |

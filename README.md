@@ -38,7 +38,7 @@
   <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinseok19&show_icons=true&theme=tokyonight" />
   <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jinseok19&layout=compact&theme=tokyonight" />
 </div>
-
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseok19&count_bg=%237B61FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=jinseok19&theme=highcontrast&hide_border=true&background=30%2C0052CC%2C7B61FF&ring=FFD700&fire=FF9900&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 

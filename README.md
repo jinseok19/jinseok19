@@ -47,8 +47,8 @@
 
 | 항목 | 내용 |
 |:---|:---|
-| **역할** | **CTO (Chief Technology Officer)** |
-| **파트너** | 김정찬 (CEO / Product Manager) |
+| **역할** | **CTO (Chief Technology Officer)** & **PM** |
+| **파트너** | 김정찬 (기획 및 UI/UX 설계) |
 | **개발사 협력** | CLAPON (클랩온) |
 | **홈페이지** | [nexuscore.co.kr](https://nexuscore.co.kr) |
 | **Contact** | nexuscore@nexuscore.co.kr |

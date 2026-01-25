@@ -60,11 +60,11 @@
 
 **프로젝트**
 
-| 프로젝트 | 설명 | 기술스택 | 링크 |
+| 프로젝트 | 설명 | 도메인 | 링크 |
 |:---|:---|:---:|:---:|
-| **all4fit** | 피트니스 통합 솔루션 플랫폼 | HTML, Flutter | [GitHub](https://github.com/Nexuscore-Partner/all4fit) |
-| **ESG_Radar** | ESG 레이더 분석 시스템 | HTML | [GitHub](https://github.com/Nexuscore-Partner/ESG_Radar) |
-| **arbormind-ai** | AI 기반 솔루션 | Python | [GitHub](https://github.com/Nexuscore-Partner/arbormind-ai) |
+| **all4fit** | 피트니스 통합 솔루션 플랫폼 | Health & Wellness, Flutter | [GitHub](https://github.com/Nexuscore-Partner/all4fit) |
+| **ESG_Radar** | ESG 레이더 분석 시스템 | Corporate Governance, GPT | [GitHub](https://github.com/Nexuscore-Partner/ESG_Radar) |
+| **arbormind-ai** | AI 기반 솔루션 | AI/ML, Python | [GitHub](https://github.com/Nexuscore-Partner/arbormind-ai) |
 
 ---
 
@@ -85,12 +85,13 @@ MCP(Model Context Protocol) 기반 AI 에이전트 시스템으로, 학생들의
 
 **프로젝트**
 
-| 프로젝트 | 설명 | 기술스택 | 링크 |
+| 프로젝트 | 설명 | 도메인 | 링크 |
 |:---|:---|:---:|:---:|
-| **Spring_Boot_MCP_Host** | Spring Boot 기반 MCP Host | Java | [GitHub](https://github.com/oneTeam-MCP/Spring_Boot_MCP_Host) ⭐1 |
-| **final_mcp_server** | MCP 서버 구현 | Python | [GitHub](https://github.com/oneTeam-MCP/final_mcp_server) |
-| **oneTeam_Server** | SMUChat API 서버 | Java | [GitHub](https://github.com/oneTeam-MCP/oneTeam_Server) |
-| **oneTeam_Frontend** | 프론트엔드 애플리케이션 | TypeScript | [GitHub](https://github.com/oneTeam-MCP/oneTeam_Frontend) |
+| **Data_Crawling** | AWS Lambda 크롤링 & 데이터 파이프라인 | Serverless, Data Engineering | [GitHub](https://github.com/oneTeam-MCP/Data_Crawling) |
+| **Spring_Boot_MCP_Host** | Spring Boot 기반 MCP Host | MCP Protocol, Java | [GitHub](https://github.com/oneTeam-MCP/Spring_Boot_MCP_Host) ⭐1 |
+| **final_mcp_server** | MCP 서버 구현 | FastMCP, Python | [GitHub](https://github.com/oneTeam-MCP/final_mcp_server) |
+| **oneTeam_Server** | SMUChat API 서버 | Backend API, Spring | [GitHub](https://github.com/oneTeam-MCP/oneTeam_Server) |
+| **oneTeam_Frontend** | 프론트엔드 애플리케이션 | React, TypeScript | [GitHub](https://github.com/oneTeam-MCP/oneTeam_Frontend) |
 
 ---
 
@@ -107,43 +108,43 @@ MCP(Model Context Protocol) 기반 AI 에이전트 시스템으로, 학생들의
 
 **프로젝트**
 
-| 프로젝트 | 설명 | 기술스택 | 링크 |
+| 프로젝트 | 설명 | 도메인 | 링크 |
 |:---|:---|:---:|:---:|
-| **bamboo-server** | 동아리 홈페이지 서버 | Java | [GitHub](https://github.com/BAMBOO-Hompage/bamboo-server) ⭐1 |
-| **bamboo-front** | 동아리 홈페이지 프론트 | TypeScript | [GitHub](https://github.com/BAMBOO-Hompage/bamboo-front) ⭐1 |
+| **bamboo-server** | 동아리 홈페이지 서버 | Backend, Spring Boot | [GitHub](https://github.com/BAMBOO-Hompage/bamboo-server) ⭐1 |
+| **bamboo-front** | 동아리 홈페이지 프론트 | Frontend, React | [GitHub](https://github.com/BAMBOO-Hompage/bamboo-front) ⭐1 |
 
 ---
 
 ### 💡 개인 AI/ML 프로젝트
 
-| 프로젝트명 | 설명 | 기술스택 | 링크 |
+| 프로젝트명 | 설명 | 도메인 | 링크 |
 |:---|:---|:---:|:---:|
-| **Remote_PPG** | 비접촉 방식 심박수 및 호흡수 실시간 측정 시스템 | Python, Computer Vision | [GitHub](https://github.com/jinseok19/Remote_PPG) |
-| **CODEEG** | 뇌파를 이용한 의류 추천 서비스 (EEG 기반) | Python, ERP, IDM-VTON | [GitHub](https://github.com/jinseok19/CODEEG) ⭐3 |
-| **2023_BioHealth_Data_Contest** | 사랑니 발치 후 위험도 예측 모델 개발 | Python, Image Classification | [GitHub](https://github.com/jinseok19/2023_BioHealth_Data_Contest) |
-| **COSSTHON** | AI 피부 분석 서비스 (COSSTHON 3rd) | HTML, Bio Health | [GitHub](https://github.com/jinseok19/COSSTHON) |
-| **Weeing-weeing** | 딸기 병 분류 플랫폼 | Python, YOLOv8 | [GitHub](https://github.com/jinseok19/Weeing-weeing) |
+| **Remote_PPG** | 비접촉 방식 심박수 및 호흡수 실시간 측정 시스템 | Healthcare, Computer Vision | [GitHub](https://github.com/jinseok19/Remote_PPG) |
+| **CODEEG** | 뇌파를 이용한 의류 추천 서비스 (EEG 기반) | Neuroscience, Fashion-Tech | [GitHub](https://github.com/jinseok19/CODEEG) ⭐3 |
+| **2023_BioHealth_Data_Contest** | 사랑니 발치 후 위험도 예측 모델 개발 | Medical AI, Image Analysis | [GitHub](https://github.com/jinseok19/2023_BioHealth_Data_Contest) |
+| **COSSTHON** | AI 피부 분석 서비스 (COSSTHON 3rd) | Beauty-Tech, Skincare AI | [GitHub](https://github.com/jinseok19/COSSTHON) |
+| **Weeing-weeing** | 딸기 병 분류 플랫폼 | Agriculture, YOLOv8 | [GitHub](https://github.com/jinseok19/Weeing-weeing) |
 
 ---
 
 ### 📚 AI-X 선도 인재 양성 프로젝트 (with KT & 상명대)
 
-| 단계 | 프로젝트명 | 설명 | 기술스택 |
+| 단계 | 프로젝트명 | 설명 | 도메인 |
 |:---:|:---|:---|:---:|
-| **고급** | Advanced_Level_Project_for_AI-X | 전동킥보드 탐지 시스템 | YOLOv8, Roboflow | 
-| **중급** | Intermediate_Level_Project_for_AI-X | 운동 동기부여 챗봇 | ChatGPT, TTS, Python |
-| **기초** | Beginner_Level_Project_for_AI-X | Kaggle 데이터 분석 프로젝트 | Jupyter Notebook |
+| **고급** | Advanced_Level_Project_for_AI-X | 전동킥보드 탐지 시스템 | Object Detection, YOLOv8 | 
+| **중급** | Intermediate_Level_Project_for_AI-X | 운동 동기부여 챗봇 | Chatbot, GPT, TTS |
+| **기초** | Beginner_Level_Project_for_AI-X | Kaggle 데이터 분석 프로젝트 | Data Science, ML |
 
 ---
 
 ### 🌐 웹 개발 프로젝트
 
-| 프로젝트명 | 설명 | 기술스택 | 링크 |
+| 프로젝트명 | 설명 | 도메인 | 링크 |
 |:---|:---|:---:|:---:|
-| **EcoBuild** | Eco Build 홈페이지 | HTML | [ecobuild.kr](https://ecobuild.kr/) |
-| **giantSK** | Giant SK 홈페이지 | JavaScript | [giant-sk.vercel.app](https://giant-sk.vercel.app) |
-| **icehockey_rank** | 아이스하키 클럽 랭킹 전적 조회 사이트 | JavaScript | [GitHub](https://github.com/jinseok19/icehockey_rank) |
-| **jinseok19.github.io** | 개인 기술 블로그 (Jekyll) | HTML | [jinseok19.github.io](https://jinseok19.github.io) |
+| **EcoBuild** | Eco Build 기업 웹사이트 | Corporate Web | [ecobuild.kr](https://ecobuild.kr/) |
+| **giantSK** | Giant SK 기업 웹사이트 | Corporate Web, JavaScript | [giant-sk.vercel.app](https://giant-sk.vercel.app) |
+| **icehockey_rank** | 아이스하키 클럽 랭킹 전적 조회 사이트 | Sports Analytics, JavaScript | [GitHub](https://github.com/jinseok19/icehockey_rank) |
+| **jinseok19.github.io** | 개인 기술 블로그 | Tech Blog, Jekyll | [jinseok19.github.io](https://jinseok19.github.io) |
 
 ---
 

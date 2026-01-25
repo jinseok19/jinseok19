@@ -47,8 +47,8 @@
 
 | 항목 | 내용 |
 |:---|:---|
-| **역할** | **Lead PM / Strategy** (총괄 기획 및 전략) |
-| **파트너** | 김정찬 (Product Manager / Design) |
+| **역할** | **CTO (Chief Technology Officer)** |
+| **파트너** | 김정찬 (CEO / Product Manager) |
 | **개발사 협력** | CLAPON (클랩온) |
 | **홈페이지** | [nexuscore.co.kr](https://nexuscore.co.kr) |
 | **Contact** | nexuscore@nexuscore.co.kr |
@@ -74,7 +74,8 @@
 
 | 항목 | 내용 |
 |:---|:---|
-| **역할** | **Lead PM / Strategy** |
+| **역할** | **Data Engineer** (데이터 수집 & DB 관리) |
+| **담당** | AWS Lambda 크롤링 시스템 구축, RDS/S3 데이터 파이프라인 설계 |
 | **팀 구성** | 김재관, 김정찬, **김진석**, 맹의현, 염다인 (5명) |
 | **GitHub** | [oneTeam-MCP](https://github.com/oneTeam-MCP) |
 
@@ -99,7 +100,8 @@ MCP(Model Context Protocol) 기반 AI 에이전트 시스템으로, 학생들의
 
 | 항목 | 내용 |
 |:---|:---|
-| **역할** | 개발 멤버 |
+| **역할** | **기획 & Full-Stack Developer** |
+| **담당** | 서비스 기획, 프론트엔드 & 백엔드 개발 (진행중) |
 | **홈페이지** | [smu-bamboo.uk](https://smu-bamboo.uk) |
 | **GitHub** | [BAMBOO-Homepage](https://github.com/BAMBOO-Hompage) |
 

@@ -42,7 +42,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=jinseok19&color=7B61FF&style=flat-square&label=VISITORS)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=jinseok19&theme=highcontrast&hide_border=true&background=30%2C0052CC%2C7B61FF&ring=FFD700&fire=FF9900&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jinseok19)](https://git.io/streak-stats)
 
 
 ### 🏅 백준 티어

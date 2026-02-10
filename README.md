@@ -22,7 +22,7 @@
 </div>
 
 ### 🐍 My Contributions Snake
-![Snake animation](https://raw.githubusercontent.com/jinseok19/jinseok19/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jinseok19/jinseok19/output/github-contribution-grid-snake.svg)
 
 ---
 

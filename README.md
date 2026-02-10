@@ -21,6 +21,10 @@
 </div>
 </div>
 
+<div align="center">
+  <img src="https://github.com/jinseok19/jinseok19/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 ---
 
 <!-- ====== PORTFOLIO SECTIONS ====== -->
